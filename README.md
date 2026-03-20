@@ -1,3 +1,3 @@
 # Tile Editor
 
-A tile editor made using raylib + odinlang.
+A tile editor made using raylib.
